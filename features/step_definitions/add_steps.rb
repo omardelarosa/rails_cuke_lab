@@ -10,3 +10,6 @@ Given(/^I fill in '(\d+)' for 'first'$/) do |number|
   browser.text_field(:id => 'first').set number # express the regexp above with the code you wish you had
 end
 
+Given(/^I fill in '(\d+)' for 'second'$/) do |number|
+  browser.text_field(:id => 'second').set number # express the regexp above with the code you wish you had
+end
