@@ -1,5 +1,5 @@
 [0.000][INFO]:      ChromeDriver 26.0.1383.0 /usr/bin/chromedriver
-[0.224][FINE]:      Initializing session with capabilities {
+[0.221][FINE]:      Initializing session with capabilities {
    "browserName": "chrome",
    "chrome.detach": true,
    "chromeOptions": {
@@ -14,11 +14,11 @@
    "version": ""
 }
 
-[0.225][INFO]:      Using named testing interface
-[0.777][INFO]:      Connected to Chrome successfully. Version: 27.0.1453.116
-[0.825][FINE]:      Command received (/session/114cb9aad6c20cf5e2c7fc46a20c2d83)
-[0.826][FINE]:      Command finished (/session/114cb9aad6c20cf5e2c7fc46a20c2d83) with response {
-   "sessionId": "114cb9aad6c20cf5e2c7fc46a20c2d83",
+[0.222][INFO]:      Using named testing interface
+[0.757][INFO]:      Connected to Chrome successfully. Version: 27.0.1453.116
+[0.799][FINE]:      Command received (/session/b27579b820110216e24beef79871bc43)
+[0.799][FINE]:      Command finished (/session/b27579b820110216e24beef79871bc43) with response {
+   "sessionId": "b27579b820110216e24beef79871bc43",
    "status": 0,
    "value": {
       "acceptSslCerts": false,
@@ -40,77 +40,77 @@
    }
 }
 
-[0.856][FINE]:      Command received (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/url) with params {
+[0.829][FINE]:      Command received (/session/b27579b820110216e24beef79871bc43/url) with params {
    "url": "http://localhost:3000/add"
 }
 
-[0.856][FINER]:     Waiting for all views to stop loading...
-[0.857][FINER]:     Done waiting for all views to stop loading
-[0.961][FINER]:     Waiting for all views to stop loading...
-[0.963][FINER]:     Done waiting for all views to stop loading
-[0.963][FINE]:      Command finished (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/url) with response {
-   "sessionId": "114cb9aad6c20cf5e2c7fc46a20c2d83",
+[0.829][FINER]:     Waiting for all views to stop loading...
+[0.829][FINER]:     Done waiting for all views to stop loading
+[0.908][FINER]:     Waiting for all views to stop loading...
+[0.910][FINER]:     Done waiting for all views to stop loading
+[0.910][FINE]:      Command finished (/session/b27579b820110216e24beef79871bc43/url) with response {
+   "sessionId": "b27579b820110216e24beef79871bc43",
    "status": 0,
    "value": {
 
    }
 }
 
-[0.964][FINE]:      Command received (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/url)
-[0.964][FINER]:     Waiting for all views to stop loading...
-[1.007][FINER]:     Done waiting for all views to stop loading
-[1.011][FINER]:     Waiting for all views to stop loading...
-[1.012][FINER]:     Done waiting for all views to stop loading
-[1.012][FINE]:      Command finished (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/url) with response {
-   "sessionId": "114cb9aad6c20cf5e2c7fc46a20c2d83",
+[0.911][FINE]:      Command received (/session/b27579b820110216e24beef79871bc43/url)
+[0.911][FINER]:     Waiting for all views to stop loading...
+[0.912][FINER]:     Done waiting for all views to stop loading
+[0.946][FINER]:     Waiting for all views to stop loading...
+[0.946][FINER]:     Done waiting for all views to stop loading
+[0.946][FINE]:      Command finished (/session/b27579b820110216e24beef79871bc43/url) with response {
+   "sessionId": "b27579b820110216e24beef79871bc43",
    "status": 0,
    "value": "http://localhost:3000/add"
 }
 
-[1.013][FINE]:      Command received (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/frame) with params {
+[0.949][FINE]:      Command received (/session/b27579b820110216e24beef79871bc43/frame) with params {
    "id": null
 }
 
-[1.013][FINER]:     Waiting for all views to stop loading...
-[1.014][FINER]:     Done waiting for all views to stop loading
-[1.014][FINER]:     Waiting for all views to stop loading...
-[1.014][FINER]:     Done waiting for all views to stop loading
-[1.014][FINE]:      Command finished (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/frame) with response {
-   "sessionId": "114cb9aad6c20cf5e2c7fc46a20c2d83",
+[0.949][FINER]:     Waiting for all views to stop loading...
+[0.949][FINER]:     Done waiting for all views to stop loading
+[0.949][FINER]:     Waiting for all views to stop loading...
+[0.950][FINER]:     Done waiting for all views to stop loading
+[0.950][FINE]:      Command finished (/session/b27579b820110216e24beef79871bc43/frame) with response {
+   "sessionId": "b27579b820110216e24beef79871bc43",
    "status": 0,
    "value": {
 
    }
 }
 
-[1.015][FINE]:      Command received (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/element) with params {
+[0.951][FINE]:      Command received (/session/b27579b820110216e24beef79871bc43/element) with params {
    "using": "id",
    "value": "first"
 }
 
-[1.015][FINER]:     Waiting for all views to stop loading...
-[1.015][FINER]:     Done waiting for all views to stop loading
-[1.034][FINER]:     Waiting for all views to stop loading...
-[1.034][FINER]:     Done waiting for all views to stop loading
-[1.034][WARNING]:   Command finished (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/element) with response {
-   "sessionId": "114cb9aad6c20cf5e2c7fc46a20c2d83",
+[0.951][FINER]:     Waiting for all views to stop loading...
+[0.955][FINER]:     Done waiting for all views to stop loading
+[0.974][FINER]:     Waiting for all views to stop loading...
+[0.974][FINER]:     Done waiting for all views to stop loading
+[0.974][WARNING]:   Command finished (/session/b27579b820110216e24beef79871bc43/element) with response {
+   "sessionId": "b27579b820110216e24beef79871bc43",
    "status": 7,
    "value": {
       "message": "The element could not be found"
    }
 }
 
-[1.036][FINE]:      Command received (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/element) with params {
+[0.976][FINE]:      Command received (/session/b27579b820110216e24beef79871bc43/element) with params {
    "using": "xpath",
    "value": ".//input[(not(@type) or (translate(@type,'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz..."
 }
 
-[1.036][FINER]:     Waiting for all views to stop loading...
-[1.036][FINER]:     Done waiting for all views to stop loading
-[1.055][FINER]:     Waiting for all views to stop loading...
-[1.055][FINER]:     Done waiting for all views to stop loading
-[1.055][WARNING]:   Command finished (/session/114cb9aad6c20cf5e2c7fc46a20c2d83/element) with response {
-   "sessionId": "114cb9aad6c20cf5e2c7fc46a20c2d83",
+[0.976][FINER]:     Waiting for all views to stop loading...
+[0.976][FINER]:     Done waiting for all views to stop loading
+[1.005][FINER]:     Waiting for all views to stop loading...
+[1.005][FINER]:     Done waiting for all views to stop loading
+[1.005][WARNING]:   Command finished (/session/b27579b820110216e24beef79871bc43/element) with response {
+   "sessionId": "b27579b820110216e24beef79871bc43",
    "status": 7,
    "value": {
       "message": "The element could not be found"
