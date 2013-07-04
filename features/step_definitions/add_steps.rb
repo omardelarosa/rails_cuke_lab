@@ -13,3 +13,11 @@ end
 Given(/^I fill in '(\d+)' for 'second'$/) do |number|
   browser.text_field(:id => 'second').set number # express the regexp above with the code you wish you had
 end
+
+Given(/^I click on 'Add'$/) do
+  browser.button(:id => 'add_button').click # express the regexp above with the code you wish you had
+end
+
+Then(/^I should see '(\d+)'$/) do |answer|
+  assert_equal(browser.div(:id => 'answer').text,answer)
+end

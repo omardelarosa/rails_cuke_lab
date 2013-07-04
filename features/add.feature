@@ -7,3 +7,5 @@ Feature: Addition
 		Given I visit the calculator page for add
 		And I fill in '50' for 'first'
 		And I fill in '40' for 'second'
+		And I click on 'Add'
+		Then I should see '90'
